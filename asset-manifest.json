@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/motocross-client/static/css/main.18eee015.css",
+    "main.js": "/motocross-client/static/js/main.77020406.js",
+    "index.html": "/motocross-client/index.html",
+    "main.18eee015.css.map": "/motocross-client/static/css/main.18eee015.css.map",
+    "main.77020406.js.map": "/motocross-client/static/js/main.77020406.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18eee015.css",
+    "static/js/main.77020406.js"
+  ]
+}
